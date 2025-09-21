@@ -1,0 +1,25 @@
+[   0.000] Initializing hardware
+[   0.097] Starting main loop
+[   0.101] Target range: 15-80cm, Follow distance: 30cm
+[   0.204] Immediate target found at 18.1cm, switching to FOLLOWING
+[   0.442] Too close! Distance: 15.9cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[   1.835] Immediate target found at 17.0cm, switching to FOLLOWING
+[   2.074] Too close! Distance: 19.3cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[   3.397] Immediate target found at 17.0cm, switching to FOLLOWING
+[   3.635] Too close! Distance: 19.4cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[   4.993] Immediate target found at 17.0cm, switching to FOLLOWING
+[   5.264] Too close! Distance: 15.8cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[   6.619] Immediate target found at 17.0cm, switching to FOLLOWING
+[   6.889] Too close! Distance: 17.0cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[   8.250] Immediate target found at 18.2cm, switching to FOLLOWING
+[   8.521] Too close! Distance: 19.2cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[   9.939] Immediate target found at 17.0cm, switching to FOLLOWING
+[  10.211] Too close! Distance: 18.1cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[  11.573] Immediate target found at 16.9cm, switching to FOLLOWING
+[  11.848] Too close! Distance: 19.3cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[  13.210] Immediate target found at 18.2cm, switching to FOLLOWING
+[  13.482] Too close! Distance: 17.0cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[  14.843] Immediate target found at 19.3cm, switching to FOLLOWING
+[  15.119] Too close! Distance: 17.0cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[  15.653] Program interrupted by user
+[  15.693] Closing log file

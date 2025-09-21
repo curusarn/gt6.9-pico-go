@@ -1,0 +1,83 @@
+[   0.000] Initializing hardware
+[   0.098] Starting main loop
+[   0.101] Target range: 15-80cm, Follow distance: 30cm
+[   0.205] Immediate target found at 15.9cm, switching to FOLLOWING
+[   0.443] Calling M.forward(45)
+[   0.738] Calling M.forward(56)
+[   1.029] Calling M.forward(48)
+[   1.325] Calling M.forward(55)
+[   1.620] Calling M.forward(55)
+[   1.983] Calling M.forward(55)
+[   2.277] Calling M.forward(53)
+[   2.571] Calling M.forward(53)
+[   2.866] Calling M.forward(54)
+[   3.159] Calling M.forward(51)
+[   3.493] Calling M.forward(53)
+[   3.825] Calling M.forward(55)
+[   4.151] Calling M.forward(51)
+[   4.477] Calling M.forward(51)
+[   4.869] Calling M.forward(52)
+[   5.201] Calling M.forward(52)
+[   5.528] Calling M.forward(52)
+[   5.855] Calling M.forward(52)
+[   6.180] Calling M.forward(52)
+[   6.514] Calling M.forward(52)
+[   6.605] Following: distance=37.6cm, speed=52, error=7.6
+[   6.881] Calling M.forward(52)
+[   7.212] Calling M.forward(52)
+[   7.542] Calling M.forward(52)
+[   7.874] Calling M.forward(51)
+[   8.211] Calling M.forward(55)
+[   8.545] Calling M.forward(55)
+[   8.878] Calling M.forward(55)
+[   9.212] Calling M.forward(55)
+[   9.612] Calling M.forward(51)
+[   9.939] Calling M.forward(50)
+[  10.275] Calling M.forward(55)
+[  10.607] Calling M.forward(55)
+[  10.939] Calling M.forward(52)
+[  11.270] Calling M.forward(50)
+[  11.603] Calling M.forward(50)
+[  11.937] Calling M.forward(55)
+[  12.266] Calling M.forward(52)
+[  12.594] Calling M.forward(47)
+[  12.923] Calling M.forward(48)
+[  13.256] Calling M.forward(48)
+[  13.355] Following: distance=23.5cm, speed=48, error=-6.5
+[  13.632] Calling M.forward(45)
+[  13.959] Too close! Distance: 3.5cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[  15.372] Starting scan sequence with speed 20
+[  21.896] Right scan: Valid target at 49.1cm, consecutive: 1
+[  22.273] Right scan: Valid target at 49.3cm, consecutive: 2
+[  22.651] Right scan: Valid target at 33.7cm, consecutive: 3
+[  22.697] Target confirmed during right scan at 33.7cm
+[  22.947] Scan successful, switching to FOLLOWING
+[  23.233] Calling M.forward(53)
+[  23.570] Calling M.forward(55)
+[  23.904] Calling M.forward(51)
+[  24.239] Calling M.forward(55)
+[  24.576] Calling M.forward(51)
+[  24.910] Calling M.forward(50)
+[  25.253] Calling M.forward(55)
+[  25.593] Calling M.forward(55)
+[  25.937] Calling M.forward(55)
+[  26.345] Calling M.forward(55)
+[  26.681] Calling M.forward(55)
+[  27.026] Calling M.forward(55)
+[  27.367] Calling M.forward(55)
+[  27.707] Calling M.forward(55)
+[  28.049] Calling M.forward(54)
+[  28.388] Calling M.forward(55)
+[  28.728] Calling M.forward(55)
+[  29.069] Calling M.forward(55)
+[  29.410] Calling M.forward(55)
+[  29.512] Following: distance=48.6cm, speed=55, error=18.6
+[  29.801] Calling M.forward(55)
+[  30.141] Calling M.forward(55)
+[  30.481] Calling M.forward(55)
+[  30.820] Calling M.forward(55)
+[  31.225] Calling M.forward(50)
+[  31.560] Too close! Distance: 7.3cm, IR_L: 0, IR_R: 0, switching to STOPPED
+[  32.953] Starting scan sequence with speed 20
+[  34.920] Program interrupted by user
+[  34.970] Closing log file
